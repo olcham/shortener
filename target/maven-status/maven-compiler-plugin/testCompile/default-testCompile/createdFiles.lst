@@ -1,0 +1,7 @@
+com\shortener\test\Test1_OpenAccount.class
+com\shortener\test\Test2_OpenAccountNegative.class
+com\shortener\test\Test4_Redirect.class
+com\shortener\test\utils\Authenticator.class
+com\shortener\test\ShortenerTestSuite.class
+com\shortener\test\Test3_RegisterUrl.class
+com\shortener\test\Test5_Statistic.class

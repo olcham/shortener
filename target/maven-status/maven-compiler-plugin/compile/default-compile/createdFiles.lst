@@ -1,0 +1,13 @@
+com\shortener\config\ApplicationConfig$1.class
+com\shortener\rest\RedirectResource.class
+com\shortener\repository\UrlStorage.class
+com\shortener\config\ApplicationConfig$MyApplicationBinder.class
+com\shortener\config\RedirectType.class
+com\shortener\rest\RedirectResource$1.class
+com\shortener\rest\StatisticResource.class
+com\shortener\service\AccountService.class
+com\shortener\rest\AccountResource.class
+com\shortener\entity\UrlEntity.class
+com\shortener\config\ApplicationConfig.class
+com\shortener\rest\RegisterResource.class
+com\shortener\service\RegisterService.class
